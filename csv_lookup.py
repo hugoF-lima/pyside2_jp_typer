@@ -5,7 +5,7 @@ import pandas as pd
 
 from flashcard_srs import Flashcard, SRS
 
-full_data = r"E:\Documents\Python_Scripts\main_env\src\01-Jan_2023\qt_5_typer_srs\src\n5_first_50_quotes.csv"
+full_data = r"n5_first_50_quotes.csv"
 
 
 def access_csv():
